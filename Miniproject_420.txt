@@ -58,6 +58,35 @@ int main() {
                 printf("Invalid choice! Please try again.\n");
         }
     }
-
     return 0;
 }
+
+INPUT/OUTPUT
+1
+420
+poojitha
+100
+2
+3
+
+Student Information System
+1. Add Student
+2. Display Student
+3. Exit
+Enter your choice: Enter Roll Number: Enter Name: Enter Marks: 
+Student Information System
+1. Add Student
+2. Display Student
+3. Exit
+Enter your choice: 
+Student Information:
+Roll Number: 420
+Name: poojitha
+Marks: 100.00
+
+Student Information System
+1. Add Student
+2. Display Student
+3. Exit
+Enter your choice: Exiting...
+
